@@ -1,4 +1,4 @@
-# Drinko Commercial Activities Performance
+# Dashboard Excel vs Tableau
 
 I created a dynamic dashboard to illustrate a company's Net Sales and Gross Profit through its Twelve Last Month (LTM) and through the months included in his Yet To Date period (YTD)
 
